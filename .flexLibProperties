@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="tv.attune.quicklib.core.LayoutStyleClient"/>
+    <classEntry path="tv.attune.quicklib.core.ILayoutStyleClient"/>
+    <classEntry path="tv.attune.quicklib.core.InvalidatingStyleClient"/>
+    <classEntry path="tv.attune.quicklib.core.PaddedInvalidatingStyleClient"/>
+    <classEntry path="tv.attune.quicklib.util.ChildUtil"/>
+    <classEntry path="tv.attune.quicklib.core.PaddedLayoutStyleClient"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
